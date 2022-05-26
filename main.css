@@ -1,0 +1,41 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* background: rgb(22, 66, 22); */
+    background-image: radial-gradient( #016f32,rgb(22, 66, 22),rgb(7, 37, 8));
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+/* 
+----feel free to copy and edit the simple code for a better.
+----made by Eugene Mark Korku Barasu on 26th May 2022.
+*/
